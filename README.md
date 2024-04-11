@@ -21,6 +21,6 @@ ShellStrike is a terminal-based application designed to automate the process of 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Buffer-Kills/shellstrike.git
+git clone https://github.com/0x-buffer/shellstrike.git
 cd shellstrike
 chmod +x *.sh
